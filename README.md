@@ -1,2 +1,1 @@
-# class1
-spinning rectangles
+# C20-Student-boilerplate-code
